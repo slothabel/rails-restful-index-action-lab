@@ -25,13 +25,13 @@ be found in `spec/features`. Both tests should be passing to complete the lab.
 
 - Run `bundle install` from your terminal
 
-- Create a controller for students and have it inherit from
-  ApplicationController
-- Create a route for the path `/students` that maps to a StudentsController `index` action.
-
-- Add a controller action to the StudentsController named `index`
-
-- Have the new `index` action pull in a list of all of the students with `Student.all` and store it in an instance variable
+<!-- - Create a controller for students and have it inherit from
+  ApplicationController -->
+<!-- - Create a route for the path `/students` that maps to a StudentsController `index` action. -->
+<!-- 
+- Add a controller action to the StudentsController named `index` -->
+<!-- 
+- Have the new `index` action pull in a list of all of the students with `Student.all` and store it in an instance variable -->
 
 - Create an `index.html.erb` view file and render it from your `Students#index` action. The `index.html.erb` file should be placed within a `views/students` folder.
 
